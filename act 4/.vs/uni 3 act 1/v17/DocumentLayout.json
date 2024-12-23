@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\mira.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\mira.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334E19B2-EFB6-455D-A4BC-17FD95AC7F9C}|uni 3 act 1\\uni 3 act 1.vcxproj|solutionrelative:uni 3 act 1\\npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mira.cpp",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.cpp",
+              "RelativeDocumentMoniker": "uni 3 act 1\\mira.cpp",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.cpp",
+              "RelativeToolTip": "uni 3 act 1\\mira.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T13:34:13.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mira.h",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.h",
+              "RelativeDocumentMoniker": "uni 3 act 1\\mira.h",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\mira.h",
+              "RelativeToolTip": "uni 3 act 1\\mira.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T13:32:52.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "npc.cpp",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.cpp",
+              "RelativeDocumentMoniker": "uni 3 act 1\\npc.cpp",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.cpp",
+              "RelativeToolTip": "uni 3 act 1\\npc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T13:20:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "npc.h",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.h",
+              "RelativeDocumentMoniker": "uni 3 act 1\\npc.h",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\npc.h",
+              "RelativeToolTip": "uni 3 act 1\\npc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T13:18:59.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "principal.cpp",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.cpp",
+              "RelativeDocumentMoniker": "uni 3 act 1\\principal.cpp",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.cpp",
+              "RelativeToolTip": "uni 3 act 1\\principal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T11:43:11.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fondo.cpp",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.cpp",
+              "RelativeDocumentMoniker": "uni 3 act 1\\fondo.cpp",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.cpp",
+              "RelativeToolTip": "uni 3 act 1\\fondo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T13:29:13.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fondo.h",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.h",
+              "RelativeDocumentMoniker": "uni 3 act 1\\fondo.h",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\fondo.h",
+              "RelativeToolTip": "uni 3 act 1\\fondo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T13:23:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "principal.h",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.h",
+              "RelativeDocumentMoniker": "uni 3 act 1\\principal.h",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\principal.h",
+              "RelativeToolTip": "uni 3 act 1\\principal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T12:12:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\main.cpp",
+              "RelativeDocumentMoniker": "uni 3 act 1\\main.cpp",
+              "ToolTip": "C:\\Users\\Brenda\\Documents\\visual\\act 4\\uni 3 act 1\\main.cpp",
+              "RelativeToolTip": "uni 3 act 1\\main.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T02:12:59.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
